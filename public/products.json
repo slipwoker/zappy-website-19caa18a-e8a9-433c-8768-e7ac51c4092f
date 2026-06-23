@@ -1,10 +1,40 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T16:48:38.784Z",
+  "generated_at": "2026-06-23T17:18:47.633Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "d59052e2-3def-4d9c-b698-754be6893a54",
+      "slug": "bmw-m5cs-shirt-ybwsvt",
+      "name": "BMW M5CS shirt",
+      "name_translations": {
+        "en": "BMW M5CS shirt",
+        "he": "חולצת BMW M5CS"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": "M.G cars club",
+      "price": 20,
+      "base_price": 50,
+      "sale_price": 20,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782234883048-xwo8of.webp",
+        "https://example.com/assets/product-1782234845752-mugjj.webp",
+        "https://example.com/assets/product-1782234869571-jpw41m.webp",
+        "https://example.com/assets/product-1782234899521-0a17a.webp",
+        "https://example.com/assets/product-1782234919484-vc2f9s.webp",
+        "https://example.com/assets/product-1782234932122-979nc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bmw-m5cs-shirt-ybwsvt",
+      "categories": [],
+      "updated_at": "2026-06-23T17:17:14.053Z"
+    },
     {
       "id": "461f7dec-7350-4f7f-99bd-1a778cb429f8",
       "slug": "mg-cars-shirt-ij7q4b",

@@ -5311,6 +5311,14 @@ Description: M.G cars Shirts - תודה על פנייתך
 
 ## Product Catalog
 
+### BMW M5CS shirt
+URL: https://example.com/product/bmw-m5cs-shirt-ybwsvt
+Price: 20.00 ILS (sale, was 50.00 ILS)
+Availability: In stock
+Brand: M.G cars club
+
+---
+
 ### M.G cars shirt
 URL: https://example.com/product/mg-cars-shirt-ij7q4b
 Price: 20.00 ILS (sale, was 50.00 ILS)

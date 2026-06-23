@@ -4,7 +4,24 @@
     <title>M.G cars Shirts</title>
     <link>https://example.com</link>
     <description>Product feed for M.G cars Shirts</description>
-    <lastBuildDate>Tue, 23 Jun 2026 16:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:18:47 GMT</lastBuildDate>
+    <item>
+      <g:id>d59052e2-3def-4d9c-b698-754be6893a54</g:id>
+      <g:title>BMW M5CS shirt</g:title>
+      <g:description>BMW M5CS shirt</g:description>
+      <g:link>https://example.com/product/bmw-m5cs-shirt-ybwsvt</g:link>
+      <g:image_link>https://example.com/assets/product-1782234883048-xwo8of.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782234845752-mugjj.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782234869571-jpw41m.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782234899521-0a17a.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782234919484-vc2f9s.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1782234932122-979nc.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>50.00 ILS</g:price>
+      <g:sale_price>20.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>M.G cars club</g:brand>
+    </item>
     <item>
       <g:id>461f7dec-7350-4f7f-99bd-1a778cb429f8</g:id>
       <g:title>M.G cars shirt</g:title>

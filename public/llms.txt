@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### BMW M5CS shirt
+https://example.com/product/bmw-m5cs-shirt-ybwsvt
+- Price: 20.00 ILS (sale, was 50.00 ILS)
+- Availability: In stock
+- Brand: M.G cars club
+- Image: https://example.com/assets/product-1782234883048-xwo8of.webp
 
 ### M.G cars shirt
 https://example.com/product/mg-cars-shirt-ij7q4b

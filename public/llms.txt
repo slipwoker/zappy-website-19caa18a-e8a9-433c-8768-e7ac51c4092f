@@ -7,76 +7,84 @@
 ## Pages
 
 ### בית
-https://m-g-cars-shirts-19caa18a.zappy5.app
+https://example.com
 ברוכים הבאים לחנות האופנה המקוונת שלנו, בה תמצאו פריטים מעוצבים שמשלבים סטייל ונוחות. היכנסו עכשיו לאחד מאתרי האופנה הטובים ביותר וגלו את הקולקציה המושלמת עבורכם!
 
 ### הסיפור שלנו
-https://m-g-cars-shirts-19caa18a.zappy5.app/brand-story
+https://example.com/brand-story
 מאחורי כל חולצה מסתתר סיפור של תשוקה וחדשנות. קראו על הדרך שלנו להפוך לאחת מחברות האופנה המקוונות הגדולות ביותר ולמה אנחנו הבחירה המושלמת לסטייל האישי שלכם.
 
 ### אומנות והתאמה
-https://m-g-cars-shirts-19caa18a.zappy5.app/craft-fit
+https://example.com/craft-fit
 גלו את סודות האומנות וההתאמה האישית שהופכים כל פריט ליצירת מופת. באתר האופנה המוביל שלנו, כל בגד נתפר בקפידה כדי להבטיח נוחות וסטייל ללא פשרות. הצטרפו עכשיו!
 
 ### צור קשר
-https://m-g-cars-shirts-19caa18a.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלות או רעיונות? צרו קשר עם צוות המומחים שלנו באתר האופנה המקוון, ואנו נעזור לכם למצוא את הפריטים שישדרגו את המלתחה שלכם. פנו אלינו עוד היום לחוויית קנייה יוצאת דופן!
 
 ### Products
-https://m-g-cars-shirts-19caa18a.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - M.G cars Shirts
 
 ### Cart
-https://m-g-cars-shirts-19caa18a.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://m-g-cars-shirts-19caa18a.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://m-g-cars-shirts-19caa18a.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://m-g-cars-shirts-19caa18a.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://m-g-cars-shirts-19caa18a.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://m-g-cars-shirts-19caa18a.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - M.G cars Shirts
 
 ### Category
-https://m-g-cars-shirts-19caa18a.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - M.G cars Shirts
 
 ### תודה על פנייתך
-https://m-g-cars-shirts-19caa18a.zappy5.app/thank-you
+https://example.com/thank-you
 M.G cars Shirts - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://m-g-cars-shirts-19caa18a.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://m-g-cars-shirts-19caa18a.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://m-g-cars-shirts-19caa18a.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### M.G cars shirt
+https://example.com/product/mg-cars-shirt-ij7q4b
+- Price: 20.00 ILS (sale, was 50.00 ILS)
+- Availability: In stock
+- SKU: M.G cars 
+- Brand: M.G cars club
+- Image: https://example.com/assets/product-1782232573555-1trfrd.webp
 
 ---
 
@@ -97,8 +105,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://m-g-cars-shirts-19caa18a.zappy5.app/sitemap.xml
-- Robots: https://m-g-cars-shirts-19caa18a.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://m-g-cars-shirts-19caa18a.zappy5.app/llms-full.txt
-- Products (JSON): https://m-g-cars-shirts-19caa18a.zappy5.app/products.json
-- Products (Google Merchant RSS): https://m-g-cars-shirts-19caa18a.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

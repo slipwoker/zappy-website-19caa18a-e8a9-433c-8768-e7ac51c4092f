@@ -1,8 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T15:39:59.865Z",
-  "base_url": "https://m-g-cars-shirts-19caa18a.zappy5.app",
-  "currency": "USD",
-  "count": 0,
-  "products": []
+  "generated_at": "2026-06-23T16:48:38.784Z",
+  "base_url": "https://example.com",
+  "currency": "ILS",
+  "count": 1,
+  "products": [
+    {
+      "id": "461f7dec-7350-4f7f-99bd-1a778cb429f8",
+      "slug": "mg-cars-shirt-ij7q4b",
+      "name": "M.G cars shirt",
+      "name_translations": {
+        "en": "M.G cars shirt",
+        "he": "חולצת M.G cars"
+      },
+      "description": "",
+      "short_description": null,
+      "sku": "M.G cars ",
+      "brand": "M.G cars club",
+      "price": 20,
+      "base_price": 50,
+      "sale_price": 20,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782232573555-1trfrd.webp",
+        "https://example.com/assets/product-1782232581175-ink98.webp",
+        "https://example.com/assets/product-1782232594504-xj9ly.webp",
+        "https://example.com/assets/product-1782232601941-58y4rb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mg-cars-shirt-ij7q4b",
+      "categories": [],
+      "updated_at": "2026-06-23T16:46:25.734Z"
+    }
+  ]
 }
